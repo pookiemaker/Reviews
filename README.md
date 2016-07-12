@@ -1,4 +1,4 @@
-## Reviews
+## Reviews - http://www.dfrobot.com/index.php?route=product/product&product_id=1291#.V4TygZMrLAw
 DFRobot Weather station. 
 * Error had to fix uint_8t to bool 
 * Product good for familiarization with laser cut materials
